@@ -93,4 +93,3 @@ function startGame(event){
 
 btnPlay.addEventListener('click', startGame);
 
-//recoger el valor de la usuaria, segundo paso saber el valor del ordenador 42
